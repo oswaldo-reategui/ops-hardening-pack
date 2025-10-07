@@ -1,0 +1,3 @@
+Account,Role,Justification,2FA (Y/N),Owner,Last Review,Notes
+admin@example.com,Administrator,Site admin,Y,[Owner],2025-10-07,Primary admin
+editor1@example.com,Editor,Content updates,N,[Owner],2025-10-07,2FA pending
